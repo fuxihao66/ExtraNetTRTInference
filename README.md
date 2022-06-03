@@ -1,8 +1,8 @@
 # OnnxGeneration
 
-use to generate onnx for tensorrt infer
+This project is used to generate onnx for tensorrt infer.
 
-
+**Currently, only CUDA11.0 is supported. And CUDNN is also required to run TRT inference.**
 
 ###  Onnx Generate
 
